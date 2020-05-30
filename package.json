@@ -1,0 +1,22 @@
+{
+  "name": "candy-crush-project",
+  "version": "1.0.0",
+  "description": "A forked repo with working candy crush code to teach my cousins how to program",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmathew23/candy-crush.git"
+  },
+  "keywords": [
+    "candy",
+    "crush",
+    "tutor"
+  ],
+  "bugs": {
+    "url": "https://github.com/mmathew23/candy-crush/issues"
+  },
+  "homepage": "https://github.com/mmathew23/candy-crush#readme"
+}
